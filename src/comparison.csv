@@ -1,0 +1,7 @@
+Metric,no_tc_commit,tc_commit
+context-switches,"26","19"
+branches,"121,397,939","117,721,311"
+branch-misses,"1,024,682","849,198"
+L1-icache-load-misses,"6,471,046","7,383,800"
+iTLB-load-misses,"26,072","32,590"
+time elapsed,"0.12453","0.13396"
