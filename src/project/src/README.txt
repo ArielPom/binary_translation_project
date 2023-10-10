@@ -7,8 +7,8 @@ a `pintool` that profiles a program and uses `function inlining and code reorder
 
 | Name              	| ID        	|
 |-------------------	|-----------	|
-| Ariel Pomeranchik 	| 313719007 	|
-| Shahar dror       	| 314882093 	|
+| Ariel Pomeranchik 	|  	|
+| Shahar dror       	|  	|
 
 ## JIT mode
 
